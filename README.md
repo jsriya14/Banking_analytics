@@ -18,7 +18,7 @@ An interactive data visualization project built using Power BI to analyze key ba
 Enhanced stakeholder decision-making by 35% and reduced manual reporting time by 50% through automated insights and client segmentation dashboards.
 
 ## 📁 Dataset
-> *Note: shared it in the repository*
+> Note: shared it in the repository
 
 ---
 
